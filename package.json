@@ -2,7 +2,7 @@
   "name": "first",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SeptiyaTamara.github.io/First-Home",
+  "homepage": "https://SeptiyaTamara.github.io/WEBFristHome",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.4",
